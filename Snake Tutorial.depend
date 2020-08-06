@@ -229,9 +229,9 @@
 	<stddef.h>
 	<GL/gl.h>
 
-1530351268 c:\users\pratik sinha\desktop\glut project\snake tutorial\game.h
+1530351268 c:\users\farhan ahmad\desktop\glut project\snake tutorial\game.h
 
-1530351268 source:c:\users\pratik sinha\desktop\glut project\snake tutorial\game.cpp
+1530351268 source:c:\users\farhan ahmad\desktop\glut project\snake tutorial\game.cpp
 	<GL/gl.h>
 	<GL/glut.h>
 	<ctime>
